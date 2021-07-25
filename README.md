@@ -1,0 +1,2 @@
+# Generalization_of_Nonconvex_SGD
+The python files of "cifar10_randomlabel.py" and "neural_network_v5.py" create and store the required results for CIFAR-10 and MNIST datasets respectively, such as "gradient variance" and "generalization error (GE)". The MatLab file "plot_gradvar_ge_cc.m" is used to generate the required figures using those results. Besides, one can search all the hyper-parameters inside the python files and then adjust them.
